@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Fraga</h1>
 <h3 align="center">A passionate fullStack developer from Argentina</h3>
-<img src='./fondo.png' alt='fullstack frontend developer>
+<img src={'./fondo.png'} alt='fullstack frontend developer>
   
 - 💻 I work with **Javascript, React, TailwindCSS, and others**
 
