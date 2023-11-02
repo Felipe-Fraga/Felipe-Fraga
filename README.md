@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felipe Fraga</h1>
 <h3 align="center">A passionate fullStack developer from Argentina</h3>
-
-- 🌱 I’m currently learning **React, Redux, Node.js, PostgreSQL**
+<img src='./fondo.png' alt='fullstack frontend developer>
+  
+- 💻 I work with **Javascript, React, TailwindCSS, and others**
 
 - 📫 How to reach me **felifraga10@gmail.com**
 
