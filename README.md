@@ -9,7 +9,6 @@
 - 📫 ¡No dudes en contactarme! **felifraga10@gmail.com**
 
 - 📝 Tengo experiencia debido a mi pasantía en 'Moru', en proyectos personales, y mi rol de 'Henry Hero' en 'Soy Henry'. ¡La programación es mi pasión!
--   <a href="https://portfolio-rho-seven-30.vercel.app/"> Portafolio </a>
   [Ver CV](https://docs.google.com/document/d/1hWIm0BhlkGDjETVYOfEAML94BxMgs3kQvgYBq1H2IY4/edit#heading=h.uhqjkfyivtwf)
 
 <h3 align="left">Connect with me:</h3>
