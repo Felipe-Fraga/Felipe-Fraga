@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Fraga</h1>
 <h3 align="center">A passionate Fullstack Frontend Developer from Argentina</h3>
-  
+
+![Imagen]('https://www.linkedin.com/in/felipefraga/overlay/background-image/')
+
+
 - 💻 I work with **Javascript, React, TailwindCSS, and others**
 
 - 📫 How to reach me **felifraga10@gmail.com**
