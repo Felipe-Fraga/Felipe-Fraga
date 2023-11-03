@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Felipe Fraga</h1>
-<h3 align="center">A passionate Fullstack Frontend Developer from Argentina</h3>
-
 ![Imagen](fondo.png)
 
 
