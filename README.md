@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Fraga</h1>
 <h3 align="center">A passionate Fullstack Frontend Developer from Argentina</h3>
 
-![Imagen](fondo.jpg)
+![Imagen](C:\Users\felif\OneDrive\Escritorio\Programación\Felipe-Fraga\fondo.png)
 
 
 - 💻 I work with **Javascript, React, TailwindCSS, and others**
