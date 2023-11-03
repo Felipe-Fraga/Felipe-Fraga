@@ -1,7 +1,7 @@
 ![Imagen](fondo.png)
 
 
-- 💻 Me gusta trabajar con  **Javascript, Typescript, React, TailwindCSS, and others** ¡Y explorar nuevas tecnologías!
+- 💻 Me gusta trabajar con  **Javascript, Typescript, React, TailwindCSS,  entre otros** ¡Y explorar nuevas tecnologías!
 - 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo!  Mi portafolio
 - 📝 Tengo experiencia debido a mi pasantía en 'Moru', en proyectos personales, y mi rol de 'Henry Hero' en 'Soy Henry'. ¡La programación es mi pasión!
 - 📚 Formado a través de cursos en línea, Universidad CAECE y 'Henry Bootcamp'. ¡Siempre busco aprender y abordar desafíos con creatividad!
