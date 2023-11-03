@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/felipefraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe fraga" height="30" width="40" /></a>
 <a href="mailto:felifraga10@gmail.com" target="_blank"><img align="center" src="" alt="Correo" height="30" width="40" /></a>
-<a href="[https://github.com/tu_usuario/tu_repositorio](https://portfolio-rho-seven-30.vercel.app/)" target="_blank"><img align="center" src="URL_DEL_ICONO_DEL_REPOSITORIO" alt="Repositorio" height="30" width="40" /></a>
+<a href="https://portfolio-rho-seven-30.vercel.app/" target="_blank"><img align="center" src="URL_DEL_ICONO_DEL_REPOSITORIO" alt="Repositorio" height="30" width="40" /></a>
 
 </p>
 
