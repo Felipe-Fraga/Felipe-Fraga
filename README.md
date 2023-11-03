@@ -2,7 +2,7 @@
 
 
 - 💻 I work with **Javascript, React, TailwindCSS, and others**
-
+- 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo!  Mi portfolio
 - 📫 How to reach me **felifraga10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
