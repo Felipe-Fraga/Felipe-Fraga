@@ -3,7 +3,7 @@
 
 - 💻 Me gusta trabajar con **Javascript, Typescript, React, TailwindCSS, entre otros**
 
-- 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo! [https://portfolio-rho-seven-30.vercel.app/](https://portfolio-rho-seven-30.vercel.app/)
+- 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo! <a href="[https://portfolio-rho-seven-30.vercel.app/](https://portfolio-rho-seven-30.vercel.app/)" Portafolio </a>
 
 - 📫 ¡No dudes en contactarme! **felifraga10@gmail.com**
 
