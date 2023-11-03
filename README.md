@@ -1,9 +1,12 @@
 ![Imagen](fondo.png)
 
 
-- 💻 I work with **Javascript, React, TailwindCSS, and others**
-- 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo!  Mi portfolio
-- 📫 How to reach me **felifraga10@gmail.com**
+- 💻 Me gusta trabajar con  **Javascript, Typescript, React, TailwindCSS, and others** ¡Y explorar nuevas tecnologías!
+- 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo!  Mi portafolio
+- 📝 Tengo experiencia debido a mi pasantía en 'Moru', en proyectos personales, y mi rol de 'Henry Hero' en 'Soy Henry'. ¡La programación es mi pasión!
+- 📚 Formado a través de cursos en línea, Universidad CAECE y 'Henry Bootcamp'. ¡Siempre busco aprender y abordar desafíos con creatividad!
+
+¡Conéctate conmigo! 📩 felifraga10@gmail.com 👥 LinkedIn 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
