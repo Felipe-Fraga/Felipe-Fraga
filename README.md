@@ -10,7 +10,7 @@
   [Ver CV](https://docs.google.com/document/d/1hWIm0BhlkGDjETVYOfEAML94BxMgs3kQvgYBq1H2IY4/edit#heading=h.uhqjkfyivtwf)
 
 - 📝 ¿Quieres saber más de mí?
-  [Ver LinkedIn]([https://docs.google.com/document/d/1hWIm0BhlkGDjETVYOfEAML94BxMgs3kQvgYBq1H2IY4/edit#heading=h.uhqjkfyivtwf](https://linkedin.com/in/felipefraga))
+  [Ver LinkedIn](https://linkedin.com/in/felipefraga)
 
 - 📫 ¡No dudes en contactarme! **felifraga10@gmail.com**
 
