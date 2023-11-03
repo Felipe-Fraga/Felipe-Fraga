@@ -2,7 +2,7 @@
 
 
 - 💻 Me gusta trabajar con  **Javascript, Typescript, React, TailwindCSS,  entre otros** ¡Y explorar nuevas tecnologías!
-- 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo!  <a href='https://portfolio-rho-seven-30.vercel.app/' target='blank'> Mi portafolio </a>
+- 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo!  <a href='https://portfolio-rho-seven-30.vercel.app/' target='__blank'> Mi portafolio </a>
 - 📝 Tengo experiencia debido a mi pasantía en 'Moru', en proyectos personales, y mi rol de 'Henry Hero' en 'Soy Henry'. ¡La programación es mi pasión!
 - 📚 Formado a través de cursos en línea, Universidad CAECE y 'Henry Bootcamp'. ¡Siempre busco aprender y abordar desafíos con creatividad!
 
