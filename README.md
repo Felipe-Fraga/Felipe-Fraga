@@ -2,15 +2,17 @@
 
 
 - 💻 Me gusta trabajar con  **Javascript, Typescript, React, TailwindCSS,  entre otros** ¡Y explorar nuevas tecnologías!
-- 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo!  <a href='https://portfolio-rho-seven-30.vercel.app/' target='_blank'> Mi portafolio </a>
+- 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo!  <a href='https://portfolio-rho-seven-30.vercel.app/' target="blank"> Mi portafolio </a>
 - 📝 Tengo experiencia debido a mi pasantía en 'Moru', en proyectos personales, y mi rol de 'Henry Hero' en 'Soy Henry'. ¡La programación es mi pasión!
 - 📚 Formado a través de cursos en línea, Universidad CAECE y 'Henry Bootcamp'. ¡Siempre busco aprender y abordar desafíos con creatividad!
 
-¡Conéctate conmigo! 📩 felifraga10@gmail.com 👥 LinkedIn 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">¡Tu consulta no es molestia!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/felipe fraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe fraga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipefraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe fraga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipefraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe fraga" height="30" width="40" /></a>
+<a href="https://portfolio-rho-seven-30.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe fraga" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
