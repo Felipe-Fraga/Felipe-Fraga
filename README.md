@@ -4,7 +4,7 @@
 - 💻 Me gusta trabajar con **Javascript, Typescript, React, TailwindCSS, entre otros**
 
 - 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo!
-  [Ver Portafolio]([https://docs.google.com/document/d/1hWIm0BhlkGDjETVYOfEAML94BxMgs3kQvgYBq1H2IY4/edit#heading=h.uhqjkfyivtwf](https://portfolio-rho-seven-30.vercel.app/))
+  [Ver Portafolio](https://portfolio-rho-seven-30.vercel.app)
 
 - 📝 Tengo experiencia debido a mi pasantía en 'Moru', en proyectos personales, y mi rol de 'Henry Hero' en 'Soy Henry'. ¡La programación es mi pasión!
   [Ver CV](https://docs.google.com/document/d/1hWIm0BhlkGDjETVYOfEAML94BxMgs3kQvgYBq1H2IY4/edit#heading=h.uhqjkfyivtwf)
