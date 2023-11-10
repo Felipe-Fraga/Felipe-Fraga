@@ -4,8 +4,8 @@
 - 💻 Me gusta trabajar con **Javascript, Typescript, React, TailwindCSS, entre otros**
 
 - 🚀 ¡Puedo aportar conocimientos técnicos inmediatos a tu equipo!
-  [Ver Portafolio](https://portfolio-rho-seven-30.vercel.app)
-
+  [Ver Portafolio](https://feipe-fraga.vercel.app/)
+  
 - 💼 Tengo experiencia gracias a mi pasantía en 'Moru', proyectos personales, y mi rol de 'Henry Hero' en 'Soy Henry'. ¡La programación es mi pasión!
   [Ver CV](https://docs.google.com/document/d/e/2PACX-1vT4rQItBrSK65rQofTcpEad-5uY4WiD9KMXlq3Enk4JqoXX4T0NrJbvDAx3Y5PwycGE-JjffX65-nG1/pub)
 
