@@ -26,7 +26,7 @@ Soy un apasionado desarrollador fullstack dedicado a la creación de experiencia
 
 ## Contacto 📩
 Siempre estoy abierto a nuevas conexiones y oportunidades de colaboración. No dudes en ponerte en contacto conmigo si tienes alguna pregunta o simplemente quieres conectar: felifraga10@gmail.com.
-Conéctame también en [[LinkedIn](https://www.linkedin.com/in/tu_usuario_de_LinkedIn/)](https://www.linkedin.com/in/felipefraga/)https://www.linkedin.com/in/felipefraga/.
+Conéctame también en [LinkedIn](https://www.linkedin.com/in/felipefraga/).
 
 
 ¡Gracias por visitar mi perfil! 😊
