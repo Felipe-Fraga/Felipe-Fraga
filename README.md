@@ -2,9 +2,7 @@
 
 ## Acerca de mí
 Soy un apasionado desarrollador fullstack dedicado a la creación de experiencias web excepcionales. Actualmente, soy estudiante de la Tecnicatura Universitaria en Programación en la Universidad CAECE y graduado fullstack del bootcamp 'Henry'. Mi búsqueda constante de conocimiento a través de la formación autodidacta me permite mantenerme actualizado y creativo frente a nuevos desafíos.
-
-## Enfoque y Filosofía 💡
-Mi enfoque va más allá de la codificación; se trata de transformar ideas en soluciones innovadoras, aportando a equipos y buscando el mejor resultado.
+💡Mi enfoque va más allá de la codificación; se trata de transformar ideas en soluciones innovadoras, aportando a equipos y buscando el mejor resultado.
 
 ## Tecnologías y Herramientas 🌐🛠️
 ### Desarrollo Frontend:
@@ -28,5 +26,7 @@ Mi enfoque va más allá de la codificación; se trata de transformar ideas en s
 
 ## Contacto 📩
 Siempre estoy abierto a nuevas conexiones y oportunidades de colaboración. No dudes en ponerte en contacto conmigo si tienes alguna pregunta o simplemente quieres conectar: felifraga10@gmail.com.
+Conéctame también en [[LinkedIn](https://www.linkedin.com/in/tu_usuario_de_LinkedIn/)](https://www.linkedin.com/in/felipefraga/)https://www.linkedin.com/in/felipefraga/.
+
 
 ¡Gracias por visitar mi perfil! 😊
