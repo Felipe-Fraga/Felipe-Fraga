@@ -1,8 +1,8 @@
 ![Imagen](fondo.png)
 
 
-- 🚀 Soy un apasionado desarrollador fullstack dedicado a la creación de experiencias web excepcionales. 
-- 💡 Mi enfoque va más allá de la codificación; se trata de transformar ideas en soluciones innovadoras, aportando a equipos y buscando el mejor resultado.
+- **🚀 Soy un apasionado desarrollador fullstack dedicado a la creación de experiencias web excepcionales. 
+- **💡 Mi enfoque va más allá de la codificación; se trata de transformar ideas en soluciones innovadoras, aportando a equipos y buscando el mejor resultado.
 
 
 🌐 Desarrollo Frontend:
