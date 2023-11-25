@@ -1,13 +1,10 @@
 ![Imagen](fondo.png)
 
 
-# ¡Hola! 👋 Soy Felipe Fraga
+¡Hola! 
 
-## Acerca de mí
 Soy un apasionado desarrollador fullstack dedicado a la creación de experiencias web excepcionales. Actualmente, soy estudiante de la Tecnicatura Universitaria en Programación en la Universidad CAECE y graduado fullstack del bootcamp 'Henry'. Mi búsqueda constante de conocimiento a través de la formación autodidacta me permite mantenerme actualizado y creativo frente a nuevos desafíos.
-
-## Enfoque y Filosofía 💡
-Mi enfoque va más allá de la codificación; se trata de transformar ideas en soluciones innovadoras, aportando a equipos y buscando el mejor resultado.
+💡 Mi enfoque va más allá de la codificación; se trata de transformar ideas en soluciones innovadoras, aportando a equipos y buscando el mejor resultado.
 
 ## Tecnologías y Herramientas 🌐🛠️
 ### Desarrollo Frontend:
