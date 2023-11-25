@@ -6,17 +6,16 @@
 Soy un apasionado desarrollador fullstack dedicado a la creación de experiencias web excepcionales. Actualmente, soy estudiante de la Tecnicatura Universitaria en Programación en la Universidad CAECE y graduado fullstack del bootcamp 'Henry'. Mi búsqueda constante de conocimiento a través de la formación autodidacta me permite mantenerme actualizado y creativo frente a nuevos desafíos.
 💡 Mi enfoque va más allá de la codificación; se trata de transformar ideas en soluciones innovadoras, aportando a equipos y buscando el mejor resultado.
 
-## Tecnologías y Herramientas 🌐🛠️
-### Desarrollo Frontend:
+🌐 Desarrollo Frontend:
 - **Lenguajes y Bibliotecas:** JavaScript, TypeScript, React.
 - **Manejo de Estado:** Redux, Redux Thunk, Redux Toolkit, Zustand.
 - **Estilos y Diseño:** CSS, Tailwind, Bootstrap, HTML.
 
-### Desarrollo Backend:
+⚙️ Desarrollo Backend:
 - **Entorno de Ejecución y Servidores:** Node.js, Express.
 - **Base de Datos y ORM:** SQL, PostgreSQL, Sequelize (ORM para Node.js).
 
-### Herramientas:
+🛠️Herramientas:
 - **Control de Versiones:** Git, GitHub.
 - **Comunicación:** Slack, Discord.
 - **Gestión de Proyectos:** Trello.
